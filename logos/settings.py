@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'api',
     # third party
     'rest_framework',
+    'rest_framework.authtoken',
     # default
     'django.contrib.admin',
     'django.contrib.auth',
