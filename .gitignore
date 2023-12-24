@@ -1,1 +1,4 @@
 env/
+fake/
+.env
+__pycache__/

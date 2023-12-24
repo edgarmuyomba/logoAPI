@@ -1,0 +1,956 @@
+[
+    {
+        "model": "api.Logo",
+        "pk": 1,
+        "fields": {
+            "company": "Boston Celtics",
+            "image": "mediafiles_cdn/logos/Boston Celtics Logo.png",
+            "category": "Basketball"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 2,
+        "fields": {
+            "company": "Chicago Bulls",
+            "image": "mediafiles_cdn/logos/Chicago Bulls Logo.png",
+            "category": "Basketball"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 3,
+        "fields": {
+            "company": "Denver Nuggets",
+            "image": "mediafiles_cdn/logos/Denver Nuggets Logo.png",
+            "category": "Basketball"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 4,
+        "fields": {
+            "company": "Detroit Pistons",
+            "image": "mediafiles_cdn/logos/Detroit Pistons Logo.png",
+            "category": "Basketball"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 5,
+        "fields": {
+            "company": "Golden State Warriors",
+            "image": "mediafiles_cdn/logos/Golden State Warriors Logo.png",
+            "category": "Basketball"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 6,
+        "fields": {
+            "company": "Los Angeles Lakers",
+            "image": "mediafiles_cdn/logos/Los Angeles Lakers Logo.png",
+            "category": "Basketball"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 7,
+        "fields": {
+            "company": "Memphis Grizzlies",
+            "image": "mediafiles_cdn/logos/Memphis Grizzlies Logo.png",
+            "category": "Basketball"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 8,
+        "fields": {
+            "company": "BMW",
+            "image": "mediafiles_cdn/logos/BMW Logo.png",
+            "category": "Cars"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 9,
+        "fields": {
+            "company": "Chevrolet",
+            "image": "mediafiles_cdn/logos/Chevrolet Logo.png",
+            "category": "Cars"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 10,
+        "fields": {
+            "company": "Ferrari",
+            "image": "mediafiles_cdn/logos/Ferrari Logo.png",
+            "category": "Cars"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 11,
+        "fields": {
+            "company": "Ford",
+            "image": "mediafiles_cdn/logos/Ford Logo.png",
+            "category": "Cars"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 12,
+        "fields": {
+            "company": "Honda",
+            "image": "mediafiles_cdn/logos/Honda logo.png",
+            "category": "Cars"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 13,
+        "fields": {
+            "company": "Mercedes",
+            "image": "mediafiles_cdn/logos/Mercedes Logo.png",
+            "category": "Cars"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 14,
+        "fields": {
+            "company": "NEVS",
+            "image": "mediafiles_cdn/logos/NEVS Logo.png",
+            "category": "Cars"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 15,
+        "fields": {
+            "company": "Porsche",
+            "image": "mediafiles_cdn/logos/Porsche Logo.png",
+            "category": "Cars"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 16,
+        "fields": {
+            "company": "Tesla",
+            "image": "mediafiles_cdn/logos/Tesla Logo.png",
+            "category": "Cars"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 17,
+        "fields": {
+            "company": "Toyota",
+            "image": "mediafiles_cdn/logos/Toyota logo.png",
+            "category": "Cars"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 18,
+        "fields": {
+            "company": "7Up",
+            "image": "mediafiles_cdn/logos/7Up Logo.png",
+            "category": "Drinks"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 19,
+        "fields": {
+            "company": "Budweiser",
+            "image": "mediafiles_cdn/logos/Budweiser Logo.png",
+            "category": "Drinks"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 20,
+        "fields": {
+            "company": "Coca-Cola",
+            "image": "mediafiles_cdn/logos/Coca-Cola Logo.png",
+            "category": "Drinks"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 21,
+        "fields": {
+            "company": "Dr Pepper",
+            "image": "mediafiles_cdn/logos/Dr Pepper Logo.png",
+            "category": "Drinks"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 22,
+        "fields": {
+            "company": "Fanta",
+            "image": "mediafiles_cdn/logos/Fanta Logo.png",
+            "category": "Drinks"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 23,
+        "fields": {
+            "company": "Jack Daniels",
+            "image": "mediafiles_cdn/logos/Jack Daniels Logo.png",
+            "category": "Drinks"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 24,
+        "fields": {
+            "company": "Monster Energy",
+            "image": "mediafiles_cdn/logos/Monster Energy Logo.png",
+            "category": "Drinks"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 25,
+        "fields": {
+            "company": "Pepsi",
+            "image": "mediafiles_cdn/logos/Pepsi Logo.png",
+            "category": "Drinks"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 26,
+        "fields": {
+            "company": "Red Bull",
+            "image": "mediafiles_cdn/logos/Red Bull Logo.png",
+            "category": "Drinks"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 27,
+        "fields": {
+            "company": "Sprite",
+            "image": "mediafiles_cdn/logos/Sprite Logo.png",
+            "category": "Drinks"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 28,
+        "fields": {
+            "company": "Asos",
+            "image": "mediafiles_cdn/logos/Asos Logo.png",
+            "category": "E-Commerce"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 29,
+        "fields": {
+            "company": "Barnes & Noble",
+            "image": "mediafiles_cdn/logos/Barnes & Noble Logo.png",
+            "category": "E-Commerce"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 30,
+        "fields": {
+            "company": "Flipkart",
+            "image": "mediafiles_cdn/logos/Flipkart Logo.png",
+            "category": "E-Commerce"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 31,
+        "fields": {
+            "company": "Myntra",
+            "image": "mediafiles_cdn/logos/Myntra Logo.png",
+            "category": "E-Commerce"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 32,
+        "fields": {
+            "company": "Pandabuy",
+            "image": "mediafiles_cdn/logos/Pandabuy Logo.png",
+            "category": "E-Commerce"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 33,
+        "fields": {
+            "company": "Shein",
+            "image": "mediafiles_cdn/logos/Shein logo.png",
+            "category": "E-Commerce"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 34,
+        "fields": {
+            "company": "Shopee",
+            "image": "mediafiles_cdn/logos/Shopee Logo.png",
+            "category": "E-Commerce"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 35,
+        "fields": {
+            "company": "Shopify",
+            "image": "mediafiles_cdn/logos/Shopify Logo.png",
+            "category": "E-Commerce"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 36,
+        "fields": {
+            "company": "TEMU",
+            "image": "mediafiles_cdn/logos/TEMU Logo.png",
+            "category": "E-Commerce"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 37,
+        "fields": {
+            "company": "Walmart",
+            "image": "mediafiles_cdn/logos/Walmart Logo.png",
+            "category": "E-Commerce"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 38,
+        "fields": {
+            "company": "Adidas",
+            "image": "mediafiles_cdn/logos/Adidas Logo.png",
+            "category": "Fashion"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 39,
+        "fields": {
+            "company": "Fruit of the Loom",
+            "image": "mediafiles_cdn/logos/Fruit of the Loom Logo.png",
+            "category": "Fashion"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 40,
+        "fields": {
+            "company": "Louis Vuitton",
+            "image": "mediafiles_cdn/logos/Louis Vuitton Logo.png",
+            "category": "Fashion"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 41,
+        "fields": {
+            "company": "Nike",
+            "image": "mediafiles_cdn/logos/Nike Logo.png",
+            "category": "Fashion"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 42,
+        "fields": {
+            "company": "Stussy",
+            "image": "mediafiles_cdn/logos/Stussy Logo.png",
+            "category": "Fashion"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 43,
+        "fields": {
+            "company": "The North Face",
+            "image": "mediafiles_cdn/logos/The North Face Logo.png",
+            "category": "Fashion"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 44,
+        "fields": {
+            "company": "Under Armour",
+            "image": "mediafiles_cdn/logos/Under Armour Logo.png",
+            "category": "Fashion"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 45,
+        "fields": {
+            "company": "Vans",
+            "image": "mediafiles_cdn/logos/Vans Logo.png",
+            "category": "Fashion"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 46,
+        "fields": {
+            "company": "American Express",
+            "image": "mediafiles_cdn/logos/American Express Logo.png",
+            "category": "Financial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 47,
+        "fields": {
+            "company": "Bank of Baroda",
+            "image": "mediafiles_cdn/logos/Bank of Baroda Logo.png",
+            "category": "Financial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 48,
+        "fields": {
+            "company": "Bank of India",
+            "image": "mediafiles_cdn/logos/Bank of India Logo.png",
+            "category": "Financial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 49,
+        "fields": {
+            "company": "HDFC Bank",
+            "image": "mediafiles_cdn/logos/HDFC Bank Logo.png",
+            "category": "Financial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 50,
+        "fields": {
+            "company": "MasterCard",
+            "image": "mediafiles_cdn/logos/MasterCard Logo.png",
+            "category": "Financial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 51,
+        "fields": {
+            "company": "Revolut",
+            "image": "mediafiles_cdn/logos/Revolut Logo.png",
+            "category": "Financial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 52,
+        "fields": {
+            "company": "SBI",
+            "image": "mediafiles_cdn/logos/SBI Logo.png",
+            "category": "Financial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 53,
+        "fields": {
+            "company": "VISA",
+            "image": "mediafiles_cdn/logos/VISA Logo.png",
+            "category": "Financial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 54,
+        "fields": {
+            "company": "Wells Fargo",
+            "image": "mediafiles_cdn/logos/Wells Fargo Logo.png",
+            "category": "Financial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 55,
+        "fields": {
+            "company": "Western Union",
+            "image": "mediafiles_cdn/logos/Western Union Logo.png",
+            "category": "Financial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 56,
+        "fields": {
+            "company": "Chuck e",
+            "image": "mediafiles_cdn/logos/Chuck e.png",
+            "category": "Food"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 57,
+        "fields": {
+            "company": "Doritos",
+            "image": "mediafiles_cdn/logos/Doritos Logo.png",
+            "category": "Food"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 58,
+        "fields": {
+            "company": "Lays",
+            "image": "mediafiles_cdn/logos/Lays Logo.png",
+            "category": "Food"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 59,
+        "fields": {
+            "company": "M&M\u2019s",
+            "image": "mediafiles_cdn/logos/M&M\u2019s Logo.png",
+            "category": "Food"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 60,
+        "fields": {
+            "company": "Nestle",
+            "image": "mediafiles_cdn/logos/Nestle Logo.png",
+            "category": "Food"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 61,
+        "fields": {
+            "company": "Oreo",
+            "image": "mediafiles_cdn/logos/Oreo Logo.png",
+            "category": "Food"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 62,
+        "fields": {
+            "company": "Pringles",
+            "image": "mediafiles_cdn/logos/Pringles Logo.png",
+            "category": "Food"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 63,
+        "fields": {
+            "company": "Skittles",
+            "image": "mediafiles_cdn/logos/Skittles Logo.png",
+            "category": "Food"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 64,
+        "fields": {
+            "company": "Toblerone",
+            "image": "mediafiles_cdn/logos/Toblerone Logo.png",
+            "category": "Food"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 65,
+        "fields": {
+            "company": "Wonka",
+            "image": "mediafiles_cdn/logos/Wonka Logo.png",
+            "category": "Food"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 66,
+        "fields": {
+            "company": "Bosch",
+            "image": "mediafiles_cdn/logos/Bosch Logo.png",
+            "category": "Industrial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 67,
+        "fields": {
+            "company": "CAT",
+            "image": "mediafiles_cdn/logos/CAT Logo.png",
+            "category": "Industrial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 68,
+        "fields": {
+            "company": "Caterpillar",
+            "image": "mediafiles_cdn/logos/Caterpillar Logo.png",
+            "category": "Industrial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 69,
+        "fields": {
+            "company": "IKEA",
+            "image": "mediafiles_cdn/logos/IKEA Logo.png",
+            "category": "Industrial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 70,
+        "fields": {
+            "company": "John Deere",
+            "image": "mediafiles_cdn/logos/John Deere Logo.png",
+            "category": "Industrial"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 71,
+        "fields": {
+            "company": "Amazon",
+            "image": "mediafiles_cdn/logos/Amazon Logo.png",
+            "category": "Internet"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 72,
+        "fields": {
+            "company": "Gmail",
+            "image": "mediafiles_cdn/logos/Gmail Logo.png",
+            "category": "Internet"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 73,
+        "fields": {
+            "company": "Google",
+            "image": "mediafiles_cdn/logos/Google Logo.png",
+            "category": "Internet"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 74,
+        "fields": {
+            "company": "Instagram",
+            "image": "mediafiles_cdn/logos/Instagram Logo.png",
+            "category": "Internet"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 75,
+        "fields": {
+            "company": "Snapchat",
+            "image": "mediafiles_cdn/logos/Snapchat Logo.png",
+            "category": "Internet"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 76,
+        "fields": {
+            "company": "TikTok",
+            "image": "mediafiles_cdn/logos/TikTok Logo.png",
+            "category": "Internet"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 77,
+        "fields": {
+            "company": "Batman",
+            "image": "mediafiles_cdn/logos/Batman Logo.png",
+            "category": "Media"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 78,
+        "fields": {
+            "company": "Cartoon Network",
+            "image": "mediafiles_cdn/logos/Cartoon Network Logo.png",
+            "category": "Media"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 79,
+        "fields": {
+            "company": "CBeebies",
+            "image": "mediafiles_cdn/logos/CBeebies Logo.png",
+            "category": "Media"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 80,
+        "fields": {
+            "company": "Cocomelon",
+            "image": "mediafiles_cdn/logos/Cocomelon Logo.png",
+            "category": "Media"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 81,
+        "fields": {
+            "company": "Friends",
+            "image": "mediafiles_cdn/logos/Friends Logo.png",
+            "category": "Media"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 82,
+        "fields": {
+            "company": "Harry Potter",
+            "image": "mediafiles_cdn/logos/Harry Potter Logo.png",
+            "category": "Media"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 83,
+        "fields": {
+            "company": "Hogwarts",
+            "image": "mediafiles_cdn/logos/Hogwarts Logo.png",
+            "category": "Media"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 84,
+        "fields": {
+            "company": "One Piece",
+            "image": "mediafiles_cdn/logos/One Piece Logo.png",
+            "category": "Media"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 85,
+        "fields": {
+            "company": "Pokemon",
+            "image": "mediafiles_cdn/logos/Pokemon Logo.png",
+            "category": "Media"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 86,
+        "fields": {
+            "company": "Spiderman",
+            "image": "mediafiles_cdn/logos/Spiderman Logo.png",
+            "category": "Media"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 87,
+        "fields": {
+            "company": "AC Milan",
+            "image": "mediafiles_cdn/logos/AC Milan Logo.png",
+            "category": "Soccer"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 88,
+        "fields": {
+            "company": "Arsenal",
+            "image": "mediafiles_cdn/logos/Arsenal Logo.png",
+            "category": "Soccer"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 89,
+        "fields": {
+            "company": "Aston Villa",
+            "image": "mediafiles_cdn/logos/Aston Villa Logo.png",
+            "category": "Soccer"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 90,
+        "fields": {
+            "company": "Barcelona",
+            "image": "mediafiles_cdn/logos/Barcelona Logo.png",
+            "category": "Soccer"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 91,
+        "fields": {
+            "company": "Celtic",
+            "image": "mediafiles_cdn/logos/Celtic Logo.png",
+            "category": "Soccer"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 92,
+        "fields": {
+            "company": "Liverpool",
+            "image": "mediafiles_cdn/logos/Liverpool Logo.png",
+            "category": "Soccer"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 93,
+        "fields": {
+            "company": "Manchester City",
+            "image": "mediafiles_cdn/logos/Manchester City Logo.png",
+            "category": "Soccer"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 94,
+        "fields": {
+            "company": "Manchester United",
+            "image": "mediafiles_cdn/logos/Manchester United Logo.png",
+            "category": "Soccer"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 95,
+        "fields": {
+            "company": "Real Madrid",
+            "image": "mediafiles_cdn/logos/Real Madrid Logo.png",
+            "category": "Soccer"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 96,
+        "fields": {
+            "company": "Tottenham Hotspur",
+            "image": "mediafiles_cdn/logos/Tottenham Hotspur Logo.png",
+            "category": "Soccer"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 97,
+        "fields": {
+            "company": "Apple",
+            "image": "mediafiles_cdn/logos/Apple Logo.png",
+            "category": "Technology"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 98,
+        "fields": {
+            "company": "HP",
+            "image": "mediafiles_cdn/logos/HP Logo.png",
+            "category": "Technology"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 99,
+        "fields": {
+            "company": "Intel",
+            "image": "mediafiles_cdn/logos/Intel Logo.png",
+            "category": "Technology"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 100,
+        "fields": {
+            "company": "iPhone",
+            "image": "mediafiles_cdn/logos/iPhone logo.png",
+            "category": "Technology"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 101,
+        "fields": {
+            "company": "LG",
+            "image": "mediafiles_cdn/logos/LG Logo.png",
+            "category": "Technology"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 102,
+        "fields": {
+            "company": "Microsoft",
+            "image": "mediafiles_cdn/logos/Microsoft Logo.png",
+            "category": "Technology"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 103,
+        "fields": {
+            "company": "MSI",
+            "image": "mediafiles_cdn/logos/MSI Logo.png",
+            "category": "Technology"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 104,
+        "fields": {
+            "company": "Samsung",
+            "image": "mediafiles_cdn/logos/Samsung Logo.png",
+            "category": "Technology"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 105,
+        "fields": {
+            "company": "Sony",
+            "image": "mediafiles_cdn/logos/Sony Logo.png",
+            "category": "Technology"
+        }
+    },
+    {
+        "model": "api.Logo",
+        "pk": 106,
+        "fields": {
+            "company": "Xiaomi",
+            "image": "mediafiles_cdn/logos/Xiaomi Logo.png",
+            "category": "Technology"
+        }
+    }
+]
