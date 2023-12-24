@@ -12,7 +12,7 @@ from rest_framework import authentication, permissions
 @permission_classes([permissions.IsAuthenticated])
 def company(request, company_name):
     comp_logo = Logo.objects.filter(company=company_name)
-    data = LogoSerializer(comp_logo, many=True).data 
+    data = LogoSerializer(comp_logo, many=True, context={'request': request}).data 
     return Response(data)
 
 @api_view(['GET'])
@@ -27,7 +27,7 @@ def categories(request):
 @permission_classes([permissions.IsAuthenticated])
 def category(request, cat_name):
     logos = Logo.objects.filter(category=cat_name)
-    data = LogoSerializer(logos, many=True).data
+    data = LogoSerializer(logos, many=True, context={'request': request}).data
     return Response(data)
 
 @api_view(['GET'])
@@ -35,5 +35,5 @@ def category(request, cat_name):
 @permission_classes([permissions.IsAuthenticated])
 def random(request, num):
     logos = Logo.objects.order_by('?').all()[0:num]
-    data = LogoSerializer(logos, many=True).data
+    data = LogoSerializer(logos, many=True, context={'request': request}).data
     return Response(data)
