@@ -79,4 +79,9 @@ After obtaining the token, attach it to each request header.
 request.get(path, headers={ "Authorization": 'Token ...' })
 ```
 ## Django-Cors-headers
-This ensures that only accepted http requests are made to the server.
+This ensures that only accepted http requests are made to the server. While using the API, if you're not using a react server on `localhost:5173`, make sure to add your domain to the `CORS_ALLOWED_ORIGINS` in the settings file
+```python
+CORS_ALLOWED_ORIGINS = [
+    ...
+]
+```
