@@ -147,7 +147,7 @@ REST_FRAMEWORK = {
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
-    'http://127.0.0.1:5500'
+    'https://memory-game-five-gray.vercel.app'
 ]
 
 CSRF_TRUSTED_ORIGINS = ['https://logoapi-production.up.railway.app']
